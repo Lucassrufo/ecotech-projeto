@@ -1,2 +1,2 @@
-# ecotech-projeto
+# EcoTech
 
