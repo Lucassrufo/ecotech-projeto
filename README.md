@@ -1,6 +1,6 @@
 # EcoTech
 
-Esse projeto é um site que utilizamos para aprender mais sobre resposividade.
+Esse projeto é destinado ao treinamento sobre responsividade
 
 ## Tecnologias utilizadas
 - HTML
@@ -9,5 +9,5 @@ Esse projeto é um site que utilizamos para aprender mais sobre resposividade.
 
 ## Como rodar o projeto
 
-git clone a a a 
+git clone 
 
