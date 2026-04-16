@@ -9,5 +9,5 @@ Esse projeto é um site que utilizamos para aprender mais sobre resposividade.
 
 ## Como rodar o projeto
 
-git clone
+git clone a a a 
 
